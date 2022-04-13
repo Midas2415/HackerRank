@@ -31,7 +31,7 @@ class Result {
     System.out.print(sumMin+" "+sumMax);
   }
 }
-
+//
 public class Solution {
     public static void main(String[] args) throws IOException {
         BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(System.in));
